@@ -14,15 +14,16 @@ This note book contains differnet approaches to handle data imbalance including 
 
 **Company_Bankruptcy_Prediction_1.ipynb:**
 Please load the data to colab : '/content/data.csv'
+
 The Notebook contains the following models:
-LR with imbalanced dataset
-LR with SMOTE + FR
-PR with imbalanced dataset
-PR with SMOTE +FR
-DT with imbalanced dataset
-DT with SMOTE +FR
-weighted NN with imbalanced dataset
-NN with SMOTE +FR
-PCA+NN with imabalanced dataset
-PCA+NN+FR with SMOTE
+1. LR with imbalanced dataset
+2. LR with SMOTE + FR
+3. PR with imbalanced dataset
+4. PR with SMOTE +FR
+5. DT with imbalanced dataset
+6. DT with SMOTE +FR
+7. weighted NN with imbalanced dataset
+8. NN with SMOTE +FR
+9. PCA+NN with imbalanced dataset
+10.PCA+NN+FR with SMOTE
 
