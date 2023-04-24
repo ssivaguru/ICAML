@@ -14,6 +14,7 @@ This note book contains differnet approaches to handle data imbalance including 
 
 **Company_Bankruptcy_Prediction_1.ipynb:**
 Please load the data to colab : '/content/data.csv'
+
 The Notebook contains the following models:
 1. LR with imbalanced dataset
 2. LR with SMOTE + FR
