@@ -3,7 +3,7 @@
 **Data Description:**
 
 
-**Handling Imbalance Data(BankruptcyPrediction_HandlingDataImbalance.ipynb):**
+**Handling Imbalance Data(Company_Bankruptcy_prediction_Handling_Data_Imbalance.ipynb):**
 
 This notebook contains differnet approaches to handle data imbalance including
 1. Resampling
