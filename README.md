@@ -56,3 +56,14 @@ Above Notebooks contains the following models (SMOTE only on the training data)
 Above Notebooks contains the following models (SMOTE for the whole data)
 1. Ada Boosting + RandomForestClassifier 
 2. Ada Boosting + DecisionTreeClassifier 
+
+**company_bankrupcy_SMOTE_TRANING**
+
+Extracts the data and iterates through the K-Best features (in ranges of 5 till 95)
+Identifies the best k features for a model 
+      Traning Data has been oversampled using SMOTE
+Models
+      Adaboost
+      Xgboost
+      SVM
+      Linear regression
