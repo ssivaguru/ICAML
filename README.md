@@ -27,3 +27,15 @@ The Notebook contains the following models:
 9. PCA+NN with imbalanced dataset
 10.PCA+NN+FR with SMOTE
 
+**Company_Bankruptcy_Prediction_2.ipynb:**
+
+The Notebook contains the following models:
+1. Most relevant feature selection capturing 97% variance in data using PCA
+2. Logistic Regression with SMOTE
+3. Logistic Regression with SMOTE + PCA reduced feature
+4. Decision tree with hyperparameters tuned + SMOTE
+5. Decision tree with hyperparameters tuned + SMOTE + PCA reduced feature
+6. Random Forest with hyperparameters tuned+ SMOTE
+7. Feature importance bar with Random forest
+8. Hard Voting Classifier with Logistic regression, Decision Tree and Random Forest
+9. Soft Voting Classifier with Logistic regression, Decision Tree and Random Forest
