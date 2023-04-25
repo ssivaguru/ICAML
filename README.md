@@ -12,9 +12,8 @@ This notebook contains differnet approaches to handle data imbalance including
 4. SMOTE on full data
 
 
-**Company_Bankruptcy_Prediction_1.ipynb:**
-Please load the data to colab : '/content/data.csv'
-
+**Company_Bankruptcy_Prediction_1_SMOTE_FULL_data.ipynb:**
+**Company_Bankruptcy_Prediction_1_SMOTE_train_data.ipynb:**
 The Notebook contains the following models:
 1. LR with imbalanced dataset
 2. LR with SMOTE + FR
