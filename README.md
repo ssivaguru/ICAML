@@ -46,14 +46,14 @@ Above Notebooks contains the following models:
 
 **Company_Bankruptcy_prediction_Adaboosting_with_SMOTE.ipynb**
 
-Above Notebooks contains the following models (SMOTE only on the training data)
+Above Notebooks contains the following models (SMOTE for the whole data)
 1. Ada Boosting + RandomForestClassifier 
 2. Ada Boosting + DecisionTreeClassifier 
 
 
 **Company_Bankruptcy_prediction_Adaboosting_no_SMOTE.ipynb**
 
-Above Notebooks contains the following models (SMOTE for the whole data)
+Above Notebooks contains the following models (SMOTE only on the training data)
 1. Ada Boosting + RandomForestClassifier 
 2. Ada Boosting + DecisionTreeClassifier 
 
