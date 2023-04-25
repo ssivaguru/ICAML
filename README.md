@@ -42,3 +42,17 @@ Above Notebooks contains the following models:
 7. Feature importance bar with Random forest
 8. Hard Voting Classifier with Logistic regression, Decision Tree and Random Forest
 9. Soft Voting Classifier with Logistic regression, Decision Tree and Random Forest
+
+
+**Company_Bankruptcy_prediction_Adaboosting_with_SMOTE.ipynb**
+
+Above Notebooks contains the following models (SMOTE only on the training data)
+1. Ada Boosting + RandomForestClassifier 
+2. Ada Boosting + DecisionTreeClassifier 
+
+
+**Company_Bankruptcy_prediction_Adaboosting_no_SMOTE.ipynb**
+
+Above Notebooks contains the following models (SMOTE for the whole data)
+1. Ada Boosting + RandomForestClassifier 
+2. Ada Boosting + DecisionTreeClassifier 
