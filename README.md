@@ -5,7 +5,11 @@
 
 **Handling Imbalance Data(BankruptcyPrediction_HandlingDataImbalance.ipynb):**
 
-This note book contains differnet approaches to handle data imbalance including Resampling, Balanced Bagging Classifier, SMOTE
+This notebook contains differnet approaches to handle data imbalance including
+1. Resampling
+2. Balanced Bagging Classifier
+3. SMOTE on Train data
+4. SMOTE on full data
 
 
 **Company_Bankruptcy_Prediction_1.ipynb:**
