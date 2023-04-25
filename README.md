@@ -27,7 +27,9 @@ The Notebook contains the following models:
 9. PCA+NN with imbalanced dataset
 10.PCA+NN+FR with SMOTE
 
-**Company_Bankruptcy_Prediction_2a.ipynb:** + **Company_Bankruptcy_Prediction_2b.ipynb:**
+**Company_Bankruptcy_Prediction_2a.ipynb:**
+**Company_Bankruptcy_Prediction_2b.ipynb:**
+
 2a -> SMOTE performed on full dataset
 2b -> SMOTE performed on train data only
 
